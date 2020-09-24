@@ -5,7 +5,7 @@
 Para rodar esse projeto você precisa ter instalado as seguintes tecnologias [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/varSashi/bot_school_reminder>
 
 # Vá para a pasta bot_school_reminder e instale as dependências
 cd bot_school_reminder
