@@ -10,7 +10,6 @@ git clone <https://github.com/varSashi/bot_school_reminder>
 ### Vá para a pasta bot_school_reminder e instale as dependências
 cd bot_school_reminder
 npm install
-npm install puppeteer
 
 ### Rode a aplicação
 node index.js
